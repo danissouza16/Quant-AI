@@ -18,7 +18,7 @@ Este repositório contém um conjunto de scripts e estratégias para análise de
 
 ---
 
-##Estrutura do Projeto
+## Estrutura do Projeto
 
 Aqui está uma descrição do que cada arquivo principal faz:
 
@@ -44,7 +44,7 @@ Aqui está uma descrição do que cada arquivo principal faz:
 
 ---
 
-##Detalhes das Estratégias
+## Detalhes das Estratégias
 
 ### 1. Estratégia Single-Asset (XGBoost + GARCH)
 
