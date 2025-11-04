@@ -4,7 +4,7 @@ Este repositório contém um conjunto de scripts e estratégias para análise de
 
 ---
 
-##Principais Funcionalidades
+## Principais Funcionalidades
 
 * **Coleta de Dados Multi-Fonte:** Pipeline para agregar dados de mercado (YFinance), macroeconômicos (FRED), de sentimento (Reddit) e de "hype" (Google Trends).
 * **Estratégia 1 (Single-Asset):** Um modelo preditivo (XGBoost) para a **Nvidia (NVDA)**, que utiliza volatilidade (GARCH) e dados alternativos (Google Trends) para dimensionar posições.
